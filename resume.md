@@ -4,29 +4,22 @@ Auriza Akbar
 Dosen Ilmu Komputer IPB
 
 <address>
-Jl Maramis 71 Surakarta 57135
-+62 821-1295-0910
-auriza.akbar@gmail.com
+Jl Maramis 71 Surakarta 57135\
++62 821-1295-0910\
+auriza.akbar@gmail.com\
 </address>
 
 Pendidikan
 ----------
 
 ### Institut Pertanian Bogor *--- MKom*
-
-<time datetime="2012-02">Feb 2012</time> -- <time datetime="2015-04">Apr 2015</time>
-
-Magister Ilmu Komputer.
+Feb 2012 -- Apr 2015: Magister Ilmu Komputer.
 
 ### Institut Pertanian Bogor *--- SKomp*
-
-<time datetime="2005-06">Jul 2005</time> -- <time datetime="2011-11">Nov 2011</time>
-
-Sarjana Komputer dengan minor Fisika Instrumentasi.
+Jul 2005 -- Nov 2011: Sarjana Komputer dengan minor Fisika Instrumentasi.
 
 ### SMA Negeri 1 Surakarta
-
-<time datetime="2002-07">Jul 2002</time> -- <time datetime="2005-06">Jun 2005</time>
+Jul 2002 -- Jun 2005
 
 Pelatihan
 ---------
@@ -48,3 +41,4 @@ Hobi
 
 Panahan, renang, dan bersepeda.
 
+---
