@@ -4,9 +4,9 @@ Auriza Akbar
 Dosen Ilmu Komputer IPB
 
 <address>
-Jl Maramis 71 Surakarta 57135\
-+62 821-1295-0910\
-auriza.akbar@gmail.com\
+Jl Maramis 71 Surakarta 57135<br>
++62 821-1295-0910<br>
+auriza.akbar@gmail.com<br>
 </address>
 
 Pendidikan
